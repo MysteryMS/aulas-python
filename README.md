@@ -1,5 +1,5 @@
 # Aulas de Python
-Material e exercícios das aulas de Lógica de Programação utilizando a linguagem Python
+Material das aulas de Lógica de Programação utilizando a linguagem Python
 
 ### Etec João Maria Stevanatto - Itapira/SP
 Curso: ETIM Desenvolvimento de Sistema - 1ºC (2021)
